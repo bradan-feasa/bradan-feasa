@@ -1,5 +1,7 @@
 # Hello!
 I am someone w**h**o l**i**kes **t**o make silly little games with t**he** pygame f**r**am**e**work. I am currently teaching myself livecoding and a little bit of web dev.
+I sometimes go by the pseudonym eff.
+
 <!--
 **bradan-feasa/bradan-feasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
